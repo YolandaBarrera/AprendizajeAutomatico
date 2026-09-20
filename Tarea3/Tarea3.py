@@ -1,4 +1,3 @@
-# Barrera Correa Yolanda Michel
 # Tarea 3 - Límites de Control
 import pandas as pd 
 import numpy as np 
